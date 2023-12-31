@@ -1,9 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-Waheed razzaq
-waheed.razzaq@abo.fi
+Waheed Razzaq
 waheedrazzaq.mul@gmail.com
+
+1-All Mandatory requirements (1-10) implemented successfully
+2-In Optional Requirements (13 & 15) Implemented
+
 First, run the development server:
 
 ```bash
